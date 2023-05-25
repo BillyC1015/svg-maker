@@ -18,4 +18,4 @@ The user runs node script.js in the terminal from the svg-maker folder. The user
 Please refer to the LICENSE in the repo.
 
 ## Deployed Application
-[Deployed Application]!!!!!add screen recorging here!!!!!!
+[Deployed Application] https://www.youtube.com/watch?v=3eBq5lltlXg
